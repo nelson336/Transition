@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
             Utils.transitionFadeActivity(getWindow());
         }
 
-
         Button button = findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
             @Override

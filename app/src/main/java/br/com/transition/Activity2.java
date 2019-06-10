@@ -25,6 +25,4 @@ public class Activity2 extends AppCompatActivity {
             ivAct2.setTransitionName(Constants.TRANSITION_NAME);
         }
     }
-
-
 }
